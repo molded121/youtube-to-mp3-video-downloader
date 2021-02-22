@@ -4,4 +4,4 @@ RewriteBase /
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^ https://gabed.net/iloader/youtube-to-mp3-video-downloaders [L]
+RewriteRule ^ https://gabed.net/iloader/youtube-to-mp3-video-downloader [L]
